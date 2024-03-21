@@ -8,5 +8,5 @@ nav_order: 2
 ![Моя збірка](https://raw.githubusercontent.com/uzvarUA/minecollection/main/spongebob-squarepants-addon_2.png)
 ### Завантажити
 [Завантажити](https://github.com/uzvarUA/minecollection/releases/download/v1.0.0/minecollection.zip)
-- [x] Необхідно включити Експериментальний ігровий процес у налаштуваннях карти
+- Необхідно включити Експериментальний ігровий процес у налаштуваннях карти
 > © 2024. Команд Узар, Всі права захищені. Цей сайт не пов'язаний MOJANG і MINECRAFT.
